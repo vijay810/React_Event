@@ -33,7 +33,7 @@
 
 
 
-🟠 Function Component:- 
+//🟠 Function Component:- 
 
 import React from "react";
 // Function component:-
