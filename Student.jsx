@@ -30,6 +30,11 @@
 //     }
 // } 
 // export default Student;
+
+
+
+🟠 Function Component:- 
+
 import React from "react";
 // Function component:-
 function Student (props){
