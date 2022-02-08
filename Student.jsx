@@ -1,6 +1,6 @@
 // import React, { Component } from "react";
 
-// // class component:-
+//🟠// Class Component:-
 // class Student extends Component{
 //     constructor(props){
 //         super(props);
